@@ -5,7 +5,7 @@ To use:
 
 Boot arch-install media. As root run the following:
 
-curl -O https://raw.githubusercontent.com/m2Giles/archinstall-vm/master/archinstall.sh
+curl -O https://raw.githubusercontent.com/m2Giles/archinstall-vm/main/archinstall.sh
 
 chmod +x ./archinstall.sh
 
